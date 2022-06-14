@@ -3,4 +3,4 @@ My group's works for the BTS class focused on the winter olympics village for at
 We focused on a function driven design, with the overall shape of masses derived from the rooms themselves and internal/external circulation. Final Grade 30/30.
 
 
-![alt text](https://github.com/TalhaErenY/Polimi-Building-Technology-Studio-2022-Spring/blob/main/1to200GFP.png?raw=true)
+![thumbnail](https://github.com/TalhaErenY/Polimi-Building-Technology-Studio-2022-Spring/blob/main/1to200GFP.png?raw=true)
